@@ -48,5 +48,4 @@ Select a Sustainable Development Goal (SDG) that resonates with you and develop 
 - SQL scripts
 - Excel workbook with data analysis and dashboard
 - Integration documentation
-- Pitch deck presentation (Provide the link e.g Canva or Gamma in your documentation)
-
+- Pitch deck presentation :https://gamma.app/docs/Sustainable-Energy-A-Data-Driven-Approach-uok6v326ek93kc8?mode=doc
